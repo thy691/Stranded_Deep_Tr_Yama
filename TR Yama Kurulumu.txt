@@ -1,0 +1,6 @@
+
+1. "resources.assets" adlı dosyayı "C:\Program Files (x86)\Stranded Deep\Stranded_Deep_Data" klasörüne kopyala ve eskisi ile değiştir de tamamdır.
+
+2. Sonra oyunu açın.
+
+3. Dil seçeneklerinden italyancayı seçin ve oyunu kapayıp açın tamamdır. Artık her şey Türkçe oldu.
